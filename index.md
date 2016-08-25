@@ -1,4 +1,4 @@
 ### Rupert's Fallout Tabletop RPG
 ---
 
-[Character Creation](/character_creation.html)
+[Character Creation](/FalloutRPG/character_creation.html)
