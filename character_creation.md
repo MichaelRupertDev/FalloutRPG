@@ -136,7 +136,7 @@ One of the most important parts of your character is your proficiency in certain
 
 To determine what the starting value of each skill is, use the following formula.
 
-__Stat 1-4: 0, 5-7: 10, 8-9: 20, 10: 3__
+__Stat 1-4: 0, 5-7: 10, 8-9: 20, 10: 30__
 
 Where "Stat" is the governing stat for the skill. See the table below to find which stats correspond to which skills.
 
@@ -159,7 +159,7 @@ Where "Stat" is the governing stat for the skill. See the table below to find wh
 | Survival | Endurance |
 | Unarmed | Strength |
 
-After you have allocated those points, you are given __100 free skill points to allocate however you wish__
+After you have allocated those points, you are given __15 free skill points to allocate however you wish__
 
 ##### Tag skills
 Each player may select 3 skills that will be "Tag Skills." These are skills that the character will be good at the beginning, so choose wisely. Each tag skill get __+10 to the skill__

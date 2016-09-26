@@ -12,12 +12,16 @@ All ranged combat is based on hit percentages. The formula for calculating hit p
 
 Roll a d100, and if the number you roll is less than the hit percentage, you hit. Roll Damage.
 
+1 Standard Attack = 5 AP
+
 ###### Melee Combat
 
-Unarmed: ``` hit_percent = (unarmed skill / 2) + (100 - AP*10)```
+Unarmed & Melee: ``` hit_percent = melee skill```
 
-Melee: ``` hit_percent = melee skill```
+##### Damage
+Upon successful hit, you must calculate damage inflicted. This depends on several factors, including weapon damage, modifiers, and armor.
 
+When attacking an armored opponent, their armor will have a __Damage Reduction__ rating or "__DR__". Your weapon will have a damage rating that must be greater than the opponents DR, or your attack will do no damage. In the case that your weapon's damage rating is greater than the opponent's Damage Reduction, you do full weapon damage.
 
 #### Exploration
 ---
