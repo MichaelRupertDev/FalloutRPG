@@ -26,6 +26,7 @@ class Character():
         'lockpick': 15,
         'medicine': 15,
         'melee_weapons': 15,
+        'pilot': 15,
         'repair': 15,
         'science': 15,
         'small_guns': 15,
